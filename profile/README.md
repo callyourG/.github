@@ -1,7 +1,7 @@
 ### Hi there 👋
 
----
-## <div align="center"> Call G : Call Your GrandSon </div>
+
+# <div align="center"> Call G : Call Your GrandSon </div>
 ###  <div align="center"> 당신의 손자/손녀에게 전화를 걸어 티켓팅을 부탁하세요! </div>
 <div align="center"> 공연 / 스포츠 / KTX 및 교통수단 예매 도우미 </div>
 
