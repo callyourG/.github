@@ -10,12 +10,12 @@
   <tr align = "center">
     <td><a href="https://github.com/rladusdn02"><img src="https://github.com/rladusdn02.png" width=200></a></td>
     <td><a href="https://github.com/Jangdb"><img src="https://github.com/Jangdb.png" width=200></a></td>
-    <td><a href="https://github.com/rladusdn02"><img src="https://github.com/rladusdn02.png" width=200></a></td> <!-- 다은님꺼 추가할것 -->
+    <td><a href="https://github.com/KANGDANI"><img src="https://github.com/KANGDANI.png" width=200></a></td>
   </tr>
   <tr align = "center">
     <td><a href = "https://github.com/rladusdn02">김연우</a> <br> Frontend Developer</td>
     <td><a href = "https://github.com/Jangdb">장다빈</a> <br> Frontend Developer</td>
-    <td><a href = "https://github.com/rladusdn02">강다은</a> <br> Frontend Developer</td> <!-- 다은님꺼 추가할것 -->
+    <td><a href = "https://github.com/KANGDANI">강다은</a> <br> Frontend Developer</td>
   </tr>
 </table>
 
