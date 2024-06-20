@@ -37,7 +37,13 @@
 ## 📍 주요기능 - User(티켓 대리 예매자)
 |1. 전화 키패드 우측 상단의 <br> 대행사 계정으로 로그인 하기|2. 본인의 정보를 입력하고 <br> 가입하기 버튼을 누릅니다|3. 페이지에 게시된 정보를 선택하여 <br> 티켓을 대리 구매해주세요|4. 예매 완료된 티켓의 정보를 upload해주세요|
 |--|--|--|--|
-|<img width="370" alt="image" src="https://github.com/callyourG/.github/assets/70503879/e5fb233a-1f92-477f-bcce-a3a2c9f98d2c">|<img width="370" alt="image" src="https://github.com/callyourG/.github/assets/70503879/8c15e13a-8853-442a-9dab-74f1267239f0">|<img width="370" alt="image" src="https://github.com/callyourG/.github/assets/70503879/43f47d52-9e9c-4bbd-9db1-939faf5f4fb1">|(upload.html img)|
+|<img width="370" alt="image" src="https://github.com/callyourG/.github/assets/70503879/e5fb233a-1f92-477f-bcce-a3a2c9f98d2c">|<img width="370" alt="image" src="https://github.com/callyourG/.github/assets/70503879/8c15e13a-8853-442a-9dab-74f1267239f0">|<img width="370" alt="image" src="https://github.com/callyourG/.github/assets/70503879/6eadb8b6-b901-49aa-b39c-3944835ccf03">|<img width="370" alt="image" src="https://github.com/callyourG/.github/assets/70503879/546a42d3-2546-47dd-bf2f-2a84178cdfea">|
+
+## 🗂️ DB 설명
+|login|storage|database|
+|--|--|--|
+|<img width="800" alt="image" src="https://github.com/callyourG/.github/assets/70503879/db85b82c-4d9c-4528-9fa1-918d12f52454"> |<img width="800" alt="image" src="https://github.com/callyourG/.github/assets/70503879/87899e40-7ff9-4e2b-91b5-a3a9a99f4fac"> |<img width="800" alt="image" src="https://github.com/callyourG/.github/assets/70503879/46ce196e-87c2-46a2-86ab-6eb37e5ed082">|
+|<p align="center">이메일로 로그인 가능. <br> 이메일과 비밀번호, 이름을 저장함 </p>| <p align="center">img폴더 안에 <br> upload된 이미지 저장되어있음 </p> | <p align="center">upload된 티켓의 정보 <br> + storage의 img 링크 정보를 저장하여 웹에 출력 </p>|
 
 <!--
 <img width="370" alt="image" src=""> -->
